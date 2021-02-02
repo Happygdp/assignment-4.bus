@@ -122,3 +122,19 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+
+.welcome h1, .welcome p{
+    text-align: center;
+}
+
+
+.welcome{
+    margin: 200px;
+    color: #000;
+    
+    padding: 50px 0px;
+    background-color: rgba(0, 255, 255, 0.856);
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+    display: none;
+}
